@@ -1,0 +1,19 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+
+frameworks:
+  - item: React
+  - item: Redux
+  - item: Node
+  - item: Next JS
+
+
+tools:
+  - item: Git & Github
+  - item: VS Code
+
+
+databases:
+  - item: PostgreSQL
+  - item: MongoDB

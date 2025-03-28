@@ -1,0 +1,38 @@
+# Site settings
+name: Vishal Krishna Bettadapur
+title: Vishal Krishna Bettadapur | Software Engineer
+description: Software Engineer
+baseurl: /
+url: vishbett.github.io
+email: vishbett@gmail.com
+logo: https://vishbett.github.io/img/emojis/technologist.png
+resume: https://drive.google.com/drive/folders/xxx
+social:
+  - title: email
+    url: mailto:vishbett@gmail.com
+  - title: github
+    url: https://github.com/vishbett
+  - title: linkedin
+    url: https://www.linkedin.com/in/vishbett/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

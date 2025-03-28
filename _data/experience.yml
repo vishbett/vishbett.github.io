@@ -1,0 +1,12 @@
+- company: Discover
+  url: https://www.google.com/
+  time: Jul 2023 - Present
+  position: Software Engineer II
+  description: Discover Engineer
+  work:
+    - thing: Worked on Backend 
+  tech:
+    - used: Spring Boot
+
+
+
