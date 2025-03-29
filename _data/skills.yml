@@ -5,15 +5,54 @@ languages:
 frameworks:
   - item: React
   - item: Redux
-  - item: Node
-  - item: Next JS
+  - item: Spring Boot
+  - item: Spring WebFlux
+  - item: Spring MVC
+  - item: GraphQL
+  - item: Node.js
+  - item: Next.js
+  - item: Express
+  - item: Apollo
+  - item: Django
+  - item: Flask
+  - item: FastAPI
+  - item: Bootstrap
+  - item: JUnit
+  - item: Mockito
+  - item: Cucumber
+  - item: JMeter
+  - item: Gatling
+  - item: Selenium
+  - item: OpenTelemetry
+  - item: Resilience4j
+  - item: Jest
+  - item: Selenium
+  - item: OAuth
 
 
 tools:
-  - item: Git & Github
-  - item: VS Code
+  - item: AWS
+  - item: Kafka
+  - item: RabbitMQ
+  - item: Flink
+  - item: Spark
+  - item: Datadog
+  - item: Instana
+  - item: Elastic Stack/Kibana
+  - item: Gradle
+  - item: Postman
+  - item: Git
+  - item: Jira
 
 
 databases:
   - item: PostgreSQL
-  - item: MongoDB
+  - item: MySQL
+  - item: MongoDB  
+  - item: Redis
+  - item: Cassandra
+  - item: DynamoDB
+  - item: Redshift
+  - item: Snowflake
+
+
