@@ -1,33 +1,30 @@
 languages:
   - item: JavaScript (ES6)
   - item: TypeScript
+  - item: Java
+  - item: Python
+  - item: SQL
+  - item: HTML
+  - item: CSS
 
 frameworks:
   - item: React
   - item: Redux
   - item: Spring Boot
-  - item: Spring WebFlux
-  - item: Spring MVC
   - item: GraphQL
   - item: Node.js
   - item: Next.js
   - item: Express
   - item: Apollo
   - item: Django
-  - item: Flask
   - item: FastAPI
-  - item: Bootstrap
-  - item: JUnit
-  - item: Mockito
   - item: Cucumber
   - item: JMeter
   - item: Gatling
   - item: Selenium
   - item: OpenTelemetry
-  - item: Resilience4j
   - item: Jest
   - item: Selenium
-  - item: OAuth
 
 
 tools:
