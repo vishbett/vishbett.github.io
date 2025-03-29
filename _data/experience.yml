@@ -1,12 +1,64 @@
-- company: Discover
-  url: https://www.google.com/
+- company: Discover Financial Services
+  url: https://www.discover.com/
   time: Jul 2023 - Present
   position: Software Engineer II
-  description: Discover Engineer
+  description: I am a Software Engineer for core teams in the card domain. Our applications serve 10-100 millions of requests per day for statements and transation data. 
   work:
-    - thing: Worked on Backend 
+    - thing: Architected critical RESTful and Event-Driven microservices in Spring Boot, reducing latency by 40% for statement processing.
+    - thing: Enhanced transaction reliability with Kafka Connect, Postgres, and Snowflake, saving $25M by mitigating system failures.
+    - thing: Increased uptime by 20% by building Disaster Recovery systems leveraging circuit-breaker patterns, multi-zone clusters, autoscaling.
+    - thing: Championed reliability, performance, and code coverage (90%+) through TDD (JUnit, Mockito) / BDD (Cucumber) and Gatling.
+
   tech:
     - used: Spring Boot
+    - used: Kafka
+    - used: RabbitMQ
+    - used: AWS
+    - used: Flink
+    - used: Kubernetes
+    - used: Datadog
+    - used: Cucumber
+
+- company: Arizona State University
+  url: https://asuenterprisepartners.org/
+  time: Jan 2023 - May 2023
+  position: Full-Stack Developer 
+  description: Automated data worflows for ASU Enterprise Partners, enhancing data accessibility and analysis for marketing outreach. Provided fast APIs in Node.js and Spring Boot for efficent querying.
+  work:
+    - thing: Improved pipeline execution time by 50%, automating model performance tracking using AWS Step Functions.
+    - thing: Implemented Lambda function triggered on client requests to ingest 100 GB+ data into MongoDB and ETL jobs in AWS Glue, EMR.
+    - thing: Designed Node.js APIs using GraphQL to interface MongoDB / Redshift for marketing efforts, boosting Brand Index by 7%.
+    
+  tech:
+    - used: Node.js
+    - used: React
+    - used: Next.js
+    - used: MongoDB
+    - used: GraphQL
+    - used: Spring Boot
+    - used: AWS Glue
+    - used: Spark
+    - used: AWS Redshift
+
+- company: Praxon Informatics
+  url: https://www.praxoninfo.com
+  time: Jul 2023 - Present
+  position: Software Engineer
+  description: Worked as a Software Engineer for Praxon Informatics, a startup focused on building data-driven solutions in HR management and analytics for small scale businesses.
+  work:
+    - thing: Delivered RESTful APIs for a workforce platform with Node.js and Redis cache, reducing system latency by 30%.
+    - thing: Enhanced UI responsiveness by 25% using HTML / CSS, Bootstrap, React, and integrated Selenium tests in the CI/CD pipeline.
+    - thing: Implemented Firebase authentication and OAuth 2.0 authorization to secure applications by generating access tokens.
+    - thing: Strengthened code quality with 85% code coverage, writing unit tests and mock functions in Jest.
+  tech:
+    - used: Node.js
+    - used: React
+    - used: Redux
+    - used: Express
+    - used: PostgreSQL
+    - used: Redis
+    - used: Firebase
+    - used: Jest
 
 
 
